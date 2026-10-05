@@ -1,16 +1,35 @@
-## Hi there 👋
+### Olá, eu sou o Eduardo Rocha Paukoski 👋
 
-<!--
-**eduardrockjr/eduardrockjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional focado em **infraestrutura de TI, automação e desenvolvimento de scripts**. Atuo na criação de soluções práticas para otimização de rotinas, manutenção de sistemas e suporte técnico.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+
+* **Linguagens & Lógica:** Python, SQL
+* **Sistemas & Ambientes:** Windows (otimizações e LTSC), Linux (Fedora/Nobara)
+* **Infraestrutura & Redes:** Suporte técnico avançado, Redes e Smart Hands
+* **Ferramentas:** Git, GitHub, VS Code, MySQL Workbench
+
+---
+
+### 🚀 O que você vai encontrar por aqui
+
+Meus repositórios contam com projetos voltados para:
+* **Automações em Python:** Scripts focados em produtividade, manipulação de dados e interação com ferramentas/APIs.
+* **Utilitários e Ferramentas:** Soluções práticas para o dia a dia de administração e suporte técnico.
+* **Organização de Dados:** Consultas, modelagens e scripts SQL.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardrockjr&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Contato
+
+* **LinkedIn:** [https://www.linkedin.com/in/eduardorpaukoski/]
