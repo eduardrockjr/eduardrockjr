@@ -15,11 +15,5 @@ Ferramenta em Python com interface gráfica desenvolvida para testes de reconhec
 ### Pré-requisitos
 - Python 3.x instalado
 
-### Passo a Passo
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/canivetepentest.git](https://github.com/SEU_USUARIO/canivetepentest.git)
-   cd canivetepentest
-
    ⚠️ Isenção de Responsabilidade
 Esta ferramenta foi criada exclusivamente para fins educacionais e testes de segurança autorizados. O uso indevido em sistemas sem prévia autorização é de inteira responsabilidade do usuário.
