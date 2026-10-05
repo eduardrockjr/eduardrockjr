@@ -1,0 +1,13 @@
+# Python / Cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller / Executáveis
+build/
+dist/
+*.spec
+*.exe
+
+# VS Code / Configurações do ambiente
+.vscode/
+.idea/
