@@ -36,4 +36,4 @@ Aplicação desktop desenvolvida em Python com interface gráfica moderna (Custo
 
 ## 👨‍💻 Desenvolvido por
 **Eduardo Rocha Paukoski**  
-*Profissional de Suporte de TI e Desenvolvedor em formação (Análise e Desenvolvimento de Sistemas)*
+*Profissional de Suporte de TI e Desenvolvedor em formação (Recém formado emAnálise e Desenvolvimento de Sistemas)*
